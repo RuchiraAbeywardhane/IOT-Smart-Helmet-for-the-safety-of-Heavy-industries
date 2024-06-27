@@ -1,0 +1,114 @@
+Change Footprint: Footprint Not Found CR01005FW1001GLF
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC2_5
+Change Net Name : Old Net Name=NetIC?_10 New Net Name=NetIC2_10
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ1_A5
+Change Net Name : Old Net Name=NetJ?_B5 New Net Name=NetJ1_B5
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR6_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-7
+Added Pin To Net: NetName=NetC3_2 Pin=U1-8
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-10
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=IC2-8
+Added Pin To Net: NetName=NetC24_2 Pin=R12-1
+Added Pin To Net: NetName=NetC24_2 Pin=R14-2
+Added Net: Name=NetC24_2
+Add Net: Net with name "NetR4_2" already exists
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-2
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=SmartHelmet Member=Component C3 CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C5 CC0402KRX7R9BB222
+Added Member To Class: ClassName=SmartHelmet Member=Component C6 CC0402KRX7R9BB103
+Added Member To Class: ClassName=SmartHelmet Member=Component C7 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C8 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C9 CC0402KRX7R7BB104
+Added Member To Class: ClassName=SmartHelmet Member=Component C10 CC0402KRX7R7BB104
+Added Member To Class: ClassName=SmartHelmet Member=Component C11 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C12 CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C13 CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C14 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C15 GRM155C71C105KE11J
+Added Member To Class: ClassName=SmartHelmet Member=Component C16 CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C17 CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C18 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C19 CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C20 CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C21 CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C22 CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C23 CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C24 CC0402JRNPO9BN100
+Added Member To Class: ClassName=SmartHelmet Member=Component IC2 TPS63060DSCR
+Added Member To Class: ClassName=SmartHelmet Member=Component P1 Header 4
+Added Member To Class: ClassName=SmartHelmet Member=Component P2 Header 3X2
+Added Member To Class: ClassName=SmartHelmet Member=Component P4 Header 3X2
+Added Member To Class: ClassName=SmartHelmet Member=Component R4 RC0402FR-071KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R5 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R6 CR01005-FW-1001GLF
+Added Member To Class: ClassName=SmartHelmet Member=Component R7 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R8 RC0402FR-07100KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R9 AC1206JR-074K7L
+Added Member To Class: ClassName=SmartHelmet Member=Component R10 AC1206JR-074K7L
+Added Member To Class: ClassName=SmartHelmet Member=Component R11 CRCW040210K0FKEE
+Added Member To Class: ClassName=SmartHelmet Member=Component R12 AC0402DR-071ML
+Added Member To Class: ClassName=SmartHelmet Member=Component R13 AC0402DR-071ML
+Added Member To Class: ClassName=SmartHelmet Member=Component R14 RT0805BRD07111KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R15 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R16 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component U2 MPU-6050
+Added Member To Class: ClassName=SmartHelmet Member=Component U4 ESP32-S3-MINI-1U-N8
+Added Member To Class: ClassName=SmartHelmet Member=Component U5 AP2204K-3.3TRG1

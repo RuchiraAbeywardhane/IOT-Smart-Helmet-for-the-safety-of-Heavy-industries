@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C9 Old Footprint=FP-CC0402-MFG New Footprint=CAPC1050X55X23ML05T13
+Change Component Footprint: Designator=C10 Old Footprint=FP-CC0402-MFG New Footprint=CAPC1050X55X23ML05T13
+Change Component Comment : Designator=C9 Old Comment=CC0402KRX7R7BB104 New Comment=CL05B104KO5NNNC
+Change Component Comment : Designator=C10 Old Comment=CC0402KRX7R7BB104 New Comment=CL05B104KO5NNNC
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A6628F80-D643-4F10-8CDD-4B1FA89DA160 New ItemGUID=1154ADC4-9949-4CD4-9518-E6026EDCB16E Old RevisionGUID=A82D6098-A5AA-4F1C-ACD2-FB14F68F77BB New RevisionGUID=04E348BC-2832-4FFE-872D-2FB64B2D2813
+Change Managed Component Library Link : Designator=C10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A6628F80-D643-4F10-8CDD-4B1FA89DA160 New ItemGUID=1154ADC4-9949-4CD4-9518-E6026EDCB16E Old RevisionGUID=A82D6098-A5AA-4F1C-ACD2-FB14F68F77BB New RevisionGUID=04E348BC-2832-4FFE-872D-2FB64B2D2813
+Change component parameters: Designator = "C9" ("C9"); Footprint = "FP-CC0402-MFG"; UniqueID = "\DIBYRNLP" ("\DIBYRNLP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29198/458718-da-01-en-vs-kondensator-0402-29198423.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "FP-CC0402-MFG"; UniqueID = "\CWWGOCWD" ("\CWWGOCWD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29198/458718-da-01-en-vs-kondensator-0402-29198423.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SmartHelmet Member=Component R9 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R10 RK73H1ETTP5101F
+Added Room: Name=SmartHelmet

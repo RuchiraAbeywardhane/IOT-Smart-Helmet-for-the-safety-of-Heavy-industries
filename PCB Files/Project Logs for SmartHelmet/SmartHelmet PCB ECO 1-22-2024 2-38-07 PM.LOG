@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GSM_TXD Pin=GSM-2
+Removed Pin From Net: NetName=+4.2 Pin=GSM-3
+Removed Pin From Net: NetName=GSM_SLEEP Pin=GSM-4
+Removed Pin From Net: NetName=GND Pin=GSM-5
+Removed Pin From Net: NetName=GSM_RING Pin=GSM-6
+Removed Pin From Net: NetName=GND Pin=U4-66_1
+Removed Pin From Net: NetName=GND Pin=U4-66_2
+Removed Pin From Net: NetName=GND Pin=U4-66_3
+Removed Pin From Net: NetName=GND Pin=U4-66_4
+Removed Pin From Net: NetName=GND Pin=U4-66_5
+Removed Pin From Net: NetName=GND Pin=U4-66_6
+Removed Pin From Net: NetName=GND Pin=U4-66_7
+Removed Pin From Net: NetName=GND Pin=U4-66_8
+Removed Pin From Net: NetName=GND Pin=U4-66_9
+Removed Pin From Net: NetName=GND Pin=U4-66_10
+Removed Pin From Net: NetName=GND Pin=U4-66_11
+Removed Pin From Net: NetName=GND Pin=U4-66_12
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=CRCW0402180KFKED
+Change Component DesignItemId : Designator=IC2 Old DesignItemId= New DesignItemId=TPS63020DSJR
+Added Pin To Net: NetName=+4.2 Pin=GSM-2
+Added Pin To Net: NetName=GND Pin=GSM-3
+Added Pin To Net: NetName=GSM_TXD Pin=GSM-4
+Added Pin To Net: NetName=GSM_RING Pin=GSM-5
+Added Pin To Net: NetName=GSM_SLEEP Pin=GSM-6
+Added Room: Name=SmartHelmet

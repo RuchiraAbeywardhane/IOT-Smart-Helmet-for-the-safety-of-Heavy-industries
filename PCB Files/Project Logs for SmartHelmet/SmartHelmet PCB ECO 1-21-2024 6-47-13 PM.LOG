@@ -1,0 +1,13 @@
+Added Component: Designator=IC?(TPS63020DSJR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS63020DSJR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps63020dsjr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tps63020.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1623612296427"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS63020DSJR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS63020DSJR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63020DSJR?qs=C44r%252BX3hXgL3LjjgiOMWew%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found INDPM4440X200N
+Added Member To Class: ClassName=SmartHelmet Member=Component IC? TPS63020DSJR
+Add Class Member: Failed to add class member : Component Y? AMDLA4020Q-1R5MT
+Added Room: Name=SmartHelmet

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GSM_RING Pin=GSM-4
+Removed Pin From Net: NetName=GSM_SLEEP Pin=GSM-6
+Removed Pin From Net: NetName=GND Pin=U4-66_1
+Removed Pin From Net: NetName=GND Pin=U4-66_2
+Removed Pin From Net: NetName=GND Pin=U4-66_3
+Removed Pin From Net: NetName=GND Pin=U4-66_4
+Removed Pin From Net: NetName=GND Pin=U4-66_5
+Removed Pin From Net: NetName=GND Pin=U4-66_6
+Removed Pin From Net: NetName=GND Pin=U4-66_7
+Removed Pin From Net: NetName=GND Pin=U4-66_8
+Removed Pin From Net: NetName=GND Pin=U4-66_9
+Removed Pin From Net: NetName=GND Pin=U4-66_10
+Removed Pin From Net: NetName=GND Pin=U4-66_11
+Removed Pin From Net: NetName=GND Pin=U4-66_12
+Change Component DesignItemId : Designator=R14 Old DesignItemId=CRCW0402180KFKED New DesignItemId=
+Change Component DesignItemId : Designator=IC2 Old DesignItemId=TPS63020DSJR New DesignItemId=
+Change Component Library : Designator=IC2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=R14 Old Library=* New Library=SamacSys.SchLib
+Added Pin To Net: NetName=GSM_SLEEP Pin=GSM-4
+Added Pin To Net: NetName=GSM_RING Pin=GSM-6
+Added Room: Name=SmartHelmet

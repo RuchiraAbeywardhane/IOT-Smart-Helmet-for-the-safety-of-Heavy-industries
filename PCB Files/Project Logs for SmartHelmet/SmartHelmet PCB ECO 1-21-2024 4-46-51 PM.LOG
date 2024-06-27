@@ -1,0 +1,14 @@
+Added Component: Designator=R9(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP5101F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP5101F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=R9-1
+Added Pin To Net: NetName=+3.3 Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=R10-1
+Added Pin To Net: NetName=+3.3 Pin=R10-2
+Added Member To Class: ClassName=SmartHelmet Member=Component R9 RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R10 RK73H1ETTP5101F

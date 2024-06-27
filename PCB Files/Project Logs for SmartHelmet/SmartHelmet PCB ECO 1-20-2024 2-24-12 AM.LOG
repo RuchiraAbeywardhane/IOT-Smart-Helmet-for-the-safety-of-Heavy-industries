@@ -1,0 +1,43 @@
+Added Component: Designator=IC2(BME680)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BME680"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bme680/bosch?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BOSCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BME680"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "262-BME680"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bosch-Sensortec/BME680?qs=v271MhAjFHjo0yA%2FC4OnDQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=+3.3 Pin=IC2-2
+Added Pin To Net: NetName=SCL Pin=IC2-3
+Added Pin To Net: NetName=SCL Pin=IC2-4
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=+3.3 Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=+3.3 Pin=IC2-8
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CC0402JRNPO9BN100
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=Barometer Member=Component IC2 BME680
+Added Member To Class: ClassName=PowerSupply Member=Component LED? NCD0402R1
+Added Member To Class: ClassName=Microcontroller Member=Component P? SIM800L
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402FR-07549RL
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-0710KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RT0805BRD07111KL
+Added Member To Class: ClassName=PowerSupply Member=Component U? BQ24040DSQR

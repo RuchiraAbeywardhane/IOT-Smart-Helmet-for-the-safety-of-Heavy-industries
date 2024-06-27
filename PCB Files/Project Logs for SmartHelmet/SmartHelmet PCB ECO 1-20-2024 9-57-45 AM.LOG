@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+3.3 Pin=Q1-1
+Removed Pin From Net: NetName=SCL Pin=Q1-3
+Removed Pin From Net: NetName=+3.3 Pin=Q2-1
+Removed Pin From Net: NetName=SCL Pin=Q2-3
+Removed Pin From Net: NetName=SCL Pin=R12-1
+Removed Pin From Net: NetName=+5 Pin=R12-2
+Removed Pin From Net: NetName=+3.3 Pin=R13-2
+Removed Pin From Net: NetName=SCL Pin=R14-1
+Removed Pin From Net: NetName=+5 Pin=R14-2
+Removed Pin From Net: NetName=+3.3 Pin=R15-2
+Removed Member From Class: ClassName=Gyro Member=Q1
+Removed Member From Class: ClassName=Gyro Member=Q2
+Removed Member From Class: ClassName=Gyro Member=R12
+Removed Member From Class: ClassName=Gyro Member=R13
+Removed Member From Class: ClassName=Gyro Member=R14
+Removed Member From Class: ClassName=Gyro Member=R15
+Added Pin To Net: NetName=SCL Pin=U3-23
+Added Pin To Net: NetName=SCL Pin=U3-24
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CC0402JRNPO9BN100
+Added Member To Class: ClassName=PowerSupply Member=Component LED? NCD0402R1
+Added Member To Class: ClassName=Microcontroller Member=Component P? SIM800L
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RT0805BRD07111KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402FR-07549RL
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-0710KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=PowerSupply Member=Component U? BQ24040DSQR
+Added Room: Name=Barometer
+Added Room: Name=Gyro
+Added Room: Name=Microcontroller
+Added Room: Name=PowerSupply

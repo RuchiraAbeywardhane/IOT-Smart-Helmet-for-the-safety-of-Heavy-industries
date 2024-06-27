@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=GPS-1
+Removed Pin From Net: NetName=+3.3 Pin=GPS-2
+Removed Pin From Net: NetName=GPS_RX Pin=GPS-3
+Removed Pin From Net: NetName=GPS_TX Pin=GPS-4
+Removed Member From Class: ClassName=SmartHelmet Member=GPS
+Add Pin To Net: Unknown Pin: Pin U4-61_1
+Add Pin To Net: Unknown Pin: Pin U4-61_5
+Add Pin To Net: Unknown Pin: Pin U4-61_6
+Added Room: Name=SmartHelmet

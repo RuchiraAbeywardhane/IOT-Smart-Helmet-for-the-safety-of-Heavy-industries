@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SCL Pin=IC1-3
+Removed Pin From Net: NetName=SCL Pin=P1-3
+Removed Pin From Net: NetName=SCL Pin=P2-3
+Removed Pin From Net: NetName=SCL Pin=R9-1
+Removed Pin From Net: NetName=+3.3 Pin=R9-2
+Removed Pin From Net: NetName=SCL Pin=R10-1
+Removed Pin From Net: NetName=+3.3 Pin=R10-2
+Removed Pin From Net: NetName=SCL Pin=U2-24
+Removed Pin From Net: NetName=SCL Pin=U4-18
+Removed Member From Class: ClassName=SmartHelmet Member=R9
+Removed Member From Class: ClassName=SmartHelmet Member=R10
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=SDA Pin=IC1-3
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P2-3
+Added Pin To Net: NetName=SDA Pin=U2-24
+Added Pin To Net: NetName=SDA Pin=U4-18
+Added Net: Name=SDA
+Add Class Member: Failed to add class member : Component R? RK73H1ETTP5101F
+Add Class Member: Failed to add class member : Component R? RK73H1ETTP5101F
+Added Room: Name=SmartHelmet

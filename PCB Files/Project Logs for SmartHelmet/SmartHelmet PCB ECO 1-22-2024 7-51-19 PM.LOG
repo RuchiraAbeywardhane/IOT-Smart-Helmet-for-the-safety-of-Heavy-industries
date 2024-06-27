@@ -1,0 +1,18 @@
+Added Component: Designator=GPS(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=GPS-1
+Added Pin To Net: NetName=+3.3 Pin=GPS-2
+Add Pin To Net: Unknown Pin: Pin U4-61_1
+Add Pin To Net: Unknown Pin: Pin U4-61_5
+Add Pin To Net: Unknown Pin: Pin U4-61_6
+Added Pin To Net: NetName=GPS_RX Pin=GPS-3
+Added Pin To Net: NetName=GPS_RX Pin=U4-34
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=GPS-4
+Added Pin To Net: NetName=GPS_TX Pin=U4-33
+Added Net: Name=GPS_TX
+Added Member To Class: ClassName=SmartHelmet Member=Component GPS Header 4
+Added Member To Class: ClassName=SmartHelmet Member=Component U4 ESP32-S3-MINI-1U-N8
+Added Room: Name=SmartHelmet

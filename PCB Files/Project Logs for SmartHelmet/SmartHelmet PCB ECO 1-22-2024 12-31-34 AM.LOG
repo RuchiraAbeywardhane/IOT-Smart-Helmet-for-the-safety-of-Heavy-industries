@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+4.2 Pin=GSM-1
+Removed Pin From Net: NetName=GND Pin=GSM-2
+Removed Pin From Net: NetName=GSM_RXD Pin=GSM-3
+Removed Pin From Net: NetName=GSM_TXD Pin=GSM-5
+Added Pin To Net: NetName=GSM_RXD Pin=GSM-1
+Added Pin To Net: NetName=GSM_TXD Pin=GSM-2
+Added Pin To Net: NetName=+4.2 Pin=GSM-3
+Added Pin To Net: NetName=GND Pin=GSM-5
+Added Room: Name=SmartHelmet

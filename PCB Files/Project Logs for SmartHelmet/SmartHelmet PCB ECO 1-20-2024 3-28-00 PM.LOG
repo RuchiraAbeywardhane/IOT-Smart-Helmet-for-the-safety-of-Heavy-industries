@@ -1,0 +1,293 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VCC Pin=IC?-2
+Removed Pin From Net: NetName=VCC Pin=IC?-3
+Removed Pin From Net: NetName=VCC Pin=IC?-4
+Removed Pin From Net: NetName=GND Pin=IC?-7
+Removed Pin From Net: NetName=+5 Pin=IC?-9
+Removed Pin From Net: NetName=GND Pin=IC?-11
+Removed Pin From Net: NetName=USB_IN Pin=J?-A9
+Removed Pin From Net: NetName=GND Pin=J?-A12
+Removed Pin From Net: NetName=USB_IN Pin=J?-B9
+Removed Pin From Net: NetName=GND Pin=J?-B12
+Removed Pin From Net: NetName=GND Pin=R?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+5 Pin=U?-1
+Removed Pin From Net: NetName=USB_IN Pin=U?-1
+Removed Pin From Net: NetName=GND Pin=U?-2
+Removed Pin From Net: NetName=+5 Pin=U?-3
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=+3.3 Pin=U?-5
+Removed Pin From Net: NetName=GND Pin=U?-7
+Removed Pin From Net: NetName=GND Pin=U?-11
+Removed Member From Class: ClassName=PowerSupply Member=C?
+Removed Member From Class: ClassName=PowerSupply Member=IC?
+Removed Member From Class: ClassName=PowerSupply Member=J?
+Removed Member From Class: ClassName=PowerSupply Member=L?
+Removed Member From Class: ClassName=PowerSupply Member=LED?
+Removed Member From Class: ClassName=PowerSupply Member=R?
+Removed Member From Class: ClassName=PowerSupply Member=U?
+Change Component Footprint: Designator=U? Old Footprint=DSQ0010A_V New Footprint=XCVR_ESP32-S3-MINI-1U-N8
+Change Component Comment : Designator=U? Old Comment=BQ24040DSQR New Comment=ESP32-S3-MINI-1U-N8
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=50CE1079-8661-4ABE-A738-91E115BFBCDD New ItemGUID= Old RevisionGUID=F4ED055D-058F-4616-B502-B2A3DB77D165 New RevisionGUID=
+Change component parameters: Designator = "U?" ("U?"); Footprint = "DSQ0010A_V"; UniqueID = "\BZUWIIWI" ("\BZUWIIWI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-S3-MINI-1U-N8/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP32-S3-MINI-1U-N8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "VFQFN-56 Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-S3-MINI-1U-N8/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C15(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C16(CAPC1050X55X23ML05T13)
+Added Component: Designator=C17(CAPC1005X55X25ML05T05)
+Added Component: Designator=C18(CAPC1608X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1608X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1608X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C34(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C35(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C36(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=IC2(SON50P300X300X80-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS63060DSCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps63060dscr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tps63060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS63060DSCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS63060DSCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63060DSCR?qs=3jfYfyvUSwA68pYl7mRJ2w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(USB4135GFA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ar.mouser.com/datasheet/2/837/usb4135-2930399.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-USB4135-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/USB4135-GF-A?qs=Li%252BoUPsLEnt6HRo6RUvaXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L1(LSDPD4040WKT4R7MML)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Taiyo%20Yuden%20PDFs%20URL%20links/LSDPD4040WKT4R7MM_SS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSDPD4040WKT4R7MML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-LSDPD4040WKT4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/LSDPD4040WKT4R7MML?qs=Jm2GQyTW%2FbhVoj%252BXZeW%2FKw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2685723"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(NCD0402R1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NCD0402R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(NCD0402R1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NCD0402R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-AC0402-IPC_C)
+Added Component: Designator=R3(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RT0805BRD07111KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rt0805brd07111kl/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RT0805BRD07111KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RT0805BRD07111KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RT0805BRD07111KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/RT0805BRD07111KL?qs=bQfrgN9vNvxW8OaJGLTFCQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "111K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP-AC0402-IPC_C)
+Added Component: Designator=R7(FP-AC0402-IPC_B)
+Added Component: Designator=R8(FP-RC0402-0_4-IPC_A)
+Added Component: Designator=R9(RESC1005X40X25ML05T10)
+Added Component: Designator=R10(RESC1005X40X25ML05T10)
+Added Component: Designator=R11(RESC1005X40X25ML05T10)
+Added Component: Designator=U2(DSQ0010A_V)
+Added Component: Designator=U4(FP-SOT25-IPC_C)
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C17-1
+Added Pin To Net: NetName=+5 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+5 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+5 Pin=C20-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-2
+Added Pin To Net: NetName=+5 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=+3.3 Pin=C36-1
+Added Pin To Net: NetName=VCC Pin=IC2-4
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=+5 Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC2-11
+Added Pin To Net: NetName=USB_IN Pin=J4-A9
+Added Pin To Net: NetName=GND Pin=J4-A12
+Added Pin To Net: NetName=USB_IN Pin=J4-B9
+Added Pin To Net: NetName=GND Pin=J4-B12
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-5
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-42
+Added Pin To Net: NetName=GND Pin=U?-43
+Added Pin To Net: NetName=GND Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=GND Pin=U?-48
+Added Pin To Net: NetName=GND Pin=U?-49
+Added Pin To Net: NetName=GND Pin=U?-50
+Added Pin To Net: NetName=GND Pin=U?-51
+Added Pin To Net: NetName=GND Pin=U?-52
+Added Pin To Net: NetName=GND Pin=U?-53
+Added Pin To Net: NetName=GND Pin=U?-54
+Added Pin To Net: NetName=GND Pin=U?-55
+Added Pin To Net: NetName=GND Pin=U?-56
+Added Pin To Net: NetName=GND Pin=U?-57
+Added Pin To Net: NetName=GND Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-59
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=GND Pin=U?-61_1
+Added Pin To Net: NetName=GND Pin=U?-61_2
+Added Pin To Net: NetName=GND Pin=U?-61_3
+Added Pin To Net: NetName=GND Pin=U?-61_4
+Added Pin To Net: NetName=GND Pin=U?-61_5
+Added Pin To Net: NetName=GND Pin=U?-61_6
+Added Pin To Net: NetName=GND Pin=U?-61_7
+Added Pin To Net: NetName=GND Pin=U?-61_8
+Added Pin To Net: NetName=GND Pin=U?-61_9
+Added Pin To Net: NetName=GND Pin=U?-62
+Added Pin To Net: NetName=GND Pin=U?-63
+Added Pin To Net: NetName=GND Pin=U?-64
+Added Pin To Net: NetName=GND Pin=U?-65
+Added Pin To Net: NetName=BAT+ Pin=IC2-2
+Added Pin To Net: NetName=BAT+ Pin=IC2-3
+Added Net: Name=BAT+
+Added Pin To Net: NetName=NetC16_2 Pin=IC2-6
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC17_2 Pin=IC2-8
+Added Pin To Net: NetName=NetC17_2 Pin=R2-1
+Added Pin To Net: NetName=NetC17_2 Pin=R3-2
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=L1-1
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_10 Pin=L1-2
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Net: Name=NetLED2_2
+Added Net: Name=NetR7_2
+Added Net: Name=NetR8_2
+Added Net: Name=NetR9_2
+Add Class Member: Failed to add class member : Component C14 CL05A106MP5NUNC
+Add Class Member: Failed to add class member : Component C15 CL05A106MP5NUNC
+Add Class Member: Failed to add class member : Component C16 CL05B104KO5NNNC
+Add Class Member: Failed to add class member : Component C17 CC0402JRNPO9BN100
+Added Member To Class: ClassName=PowerSupply Member=Component C18 CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C19 CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C20 CL10A226MP8NUNE
+Add Class Member: Failed to add class member : Component C33 CL05A106MP5NUNC
+Add Class Member: Failed to add class member : Component C34 CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C35 CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C36 CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component IC2 TPS63060DSCR
+Added Member To Class: ClassName=PowerSupply Member=Component J4 USB4135-GF-A
+Added Member To Class: ClassName=PowerSupply Member=Component L1 CMLW4030S1R0MST
+Added Member To Class: ClassName=PowerSupply Member=Component LED1 NCD0402R1
+Added Member To Class: ClassName=PowerSupply Member=Component LED2 NCD0402G1
+Added Member To Class: ClassName=Microcontroller Member=Component P? SIM800L
+Added Member To Class: ClassName=PowerSupply Member=Component R2 AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R3 RT0805BRD07111KL
+Add Class Member: Failed to add class member : Component R4 AC0402DR-071ML
+Add Class Member: Failed to add class member : Component R7 AC0402FR-07549RL
+Add Class Member: Failed to add class member : Component R8 RC0402FR-071KL
+Add Class Member: Failed to add class member : Component R9 RC0402FR-0710KL
+Add Class Member: Failed to add class member : Component R10 RC0402FR-071K5L
+Add Class Member: Failed to add class member : Component R11 RC0402FR-071K5L
+Add Class Member: Failed to add class member : Component U2 BQ24040DSQR
+Add Class Member: Failed to add class member : Component U4 AP2204K-3.3TRG1
+Added Room: Name=Barometer
+Added Room: Name=Gyro
+Added Room: Name=Microcontroller
+Added Room: Name=PowerSupply

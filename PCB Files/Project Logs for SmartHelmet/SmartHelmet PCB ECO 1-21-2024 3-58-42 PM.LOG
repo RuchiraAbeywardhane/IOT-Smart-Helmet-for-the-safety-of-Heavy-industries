@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=BAT+ Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=BAT+ Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=+4.2 Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+4.2 Pin=C23-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=BAT+ Pin=IC2-2
+Removed Pin From Net: NetName=BAT+ Pin=IC2-3
+Removed Pin From Net: NetName=GND Pin=IC2-7
+Removed Pin From Net: NetName=+4.2 Pin=IC2-9
+Removed Pin From Net: NetName=GND Pin=IC2-11
+Removed Pin From Net: NetName=+4.2 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Member From Class: ClassName=SmartHelmet Member=C23
+Removed Member From Class: ClassName=SmartHelmet Member=IC2
+Removed Member From Class: ClassName=SmartHelmet Member=R14
+Change Component Footprint: Designator=C18 Old Footprint=CAPC1050X55X23ML05T13 New Footprint=CAPC1608X105N
+Change Footprint: Cannot match pads with new footprint in component :R12 Footprint:FP-CRCW0402-e3-IPC_C
+Change Footprint: Cannot match pads with new footprint in component :R13 Footprint:RESC1005X40X25ML10T10
+Change Component Footprint: Designator=C19 Old Footprint=FP-CL05A106MP5NUNC-MFG New Footprint=CAPC1608X105N
+Change Component Footprint: Designator=C20 Old Footprint=FP-CL05A106MP5NUNC-MFG New Footprint=CAPC1608X105N
+Change Component Footprint: Designator=L1 Old Footprint=LSDPD4040WKT4R7MML New Footprint=INDPM4441X120N
+Change Component Comment : Designator=R13 Old Comment=AC0402DR-071ML New Comment=CR0402-FX-1503GLF
+Change Component Comment : Designator=R12 Old Comment=AC0402DR-071ML New Comment=CRCW0402590KFKED
+Change Component Comment : Designator=C19 Old Comment=CL05A106MP5NUNC New Comment=CL10A226MP8NUNE
+Change Component Comment : Designator=C20 Old Comment=CL05A106MP5NUNC New Comment=CL10A226MP8NUNE
+Change Component Comment : Designator=C18 Old Comment=CL05B104KO5NNNC New Comment=CL10A226MP8NUNE
+Change Component Comment : Designator=L1 Old Comment=CMLW4030S1R0MST New Comment=SRP4012CC-R68M
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CB80F9CE-9983-473B-92AD-CFF34B9CD551 New ItemGUID=301D262B-FF53-41C7-A646-F8FECA7E68F8 Old RevisionGUID=D22CAC1F-3851-4A90-99A8-1DDFEB357526 New RevisionGUID=24054B43-866C-4A1C-A144-88EC21ECC8FC
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CB80F9CE-9983-473B-92AD-CFF34B9CD551 New ItemGUID=465637CF-F906-4ABB-811C-2234F0F47179 Old RevisionGUID=D22CAC1F-3851-4A90-99A8-1DDFEB357526 New RevisionGUID=40379E1E-9A34-4DE9-9915-A565514ADB8A
+Change Managed Component Library Link : Designator=C18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1154ADC4-9949-4CD4-9518-E6026EDCB16E New ItemGUID= Old RevisionGUID=04E348BC-2832-4FFE-872D-2FB64B2D2813 New RevisionGUID=
+Change Managed Component Library Link : Designator=C19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=852C0507-0546-49E6-B4ED-2EA96575875B New ItemGUID= Old RevisionGUID=35543DD4-E214-49B4-B423-3E72F9FE0A8E New RevisionGUID=
+Change Managed Component Library Link : Designator=C20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=852C0507-0546-49E6-B4ED-2EA96575875B New ItemGUID= Old RevisionGUID=35543DD4-E214-49B4-B423-3E72F9FE0A8E New RevisionGUID=
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC1050X55X23ML05T13"; UniqueID = "\ZEEDEIEO" ("\ZEEDEIEO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "FP-CL05A106MP5NUNC-MFG"; UniqueID = "\KSWGFWXD" ("\KSWGFWXD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "FP-CL05A106MP5NUNC-MFG"; UniqueID = "\PYOCFOBE" ("\PYOCFOBE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mp8nune/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407063.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MP8NUNE?qs=gRKWieUq2Hb5O0PTfRKzDQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "LSDPD4040WKT4R7MML"; UniqueID = "\NOYKIVPT" ("\NOYKIVPT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SRP4012CC-R68M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/srp4012cc-r68m/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRP4012CC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRP4012CC-R68M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-SRP4012CC-R68M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SRP4012CC-R68M?qs=1Kr7Jg1SGW88iDwpcvewJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "FP-AC0402-IPC_C"; UniqueID = "\RSZEHBCH" ("\RSZEHBCH")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "590kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "2.3E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "FP-AC0402-IPC_C"; UniqueID = "\WZDYBOND" ("\WZDYBOND")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1503GLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "150K"; VariantName = "[No Variations]"
+Added Component: Designator=C16(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=C17(FP-CL05A106MP5NUNC-MFG)
+Added Component: Designator=U5(FP-YFF0025-MFG)
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Added Pin To Net: NetName=+4.2 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+4.2 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+4.2 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+4.2 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Add Pin To Net: Unknown Pin: Pin U5-A1
+Add Pin To Net: Unknown Pin: Pin U5-A2
+Add Pin To Net: Unknown Pin: Pin U5-A3
+Add Pin To Net: Unknown Pin: Pin U5-A4
+Add Pin To Net: Unknown Pin: Pin U5-A5
+Add Pin To Net: Unknown Pin: Pin U5-B5
+Add Pin To Net: Unknown Pin: Pin U5-C1
+Add Pin To Net: Unknown Pin: Pin U5-C2
+Add Pin To Net: Unknown Pin: Pin U5-C3
+Add Pin To Net: Unknown Pin: Pin U5-C4
+Add Pin To Net: Unknown Pin: Pin U5-C5
+Add Pin To Net: Unknown Pin: Pin U5-D5
+Add Pin To Net: Unknown Pin: Pin U5-E1
+Add Pin To Net: Unknown Pin: Pin U5-E2
+Add Pin To Net: Unknown Pin: Pin U5-E3
+Add Pin To Net: Unknown Pin: Pin U5-E4
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-2
+Added Net: Name=NetR12_1
+Add Class Member: Failed to add class member : Component C16 CL05A106MP5NUNC
+Add Class Member: Failed to add class member : Component C17 CL05A106MP5NUNC
+Add Class Member: Failed to add class member : Component U5 TPS63027YFFR
+Added Room: Name=SmartHelmet

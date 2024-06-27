@@ -1,0 +1,86 @@
+Added Component: Designator=C1(FP-CC0402-MFG)
+Added Component: Designator=C2(FP-CC0402-MFG)
+Add Component: Footprint Not Found BME680
+Added Component: Designator=P?(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP-AC1206-MFG)
+Added Component: Designator=R2(FP-AC1206-MFG)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=+3.3 Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=SCL Pin=Q2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=SCL Pin=R14-1
+Added Pin To Net: NetName=+4.2 Pin=P?-1
+Added Net: Name=+4.2
+Added Pin To Net: NetName=GSM_RING Pin=P?-4
+Added Net: Name=GSM_RING
+Added Pin To Net: NetName=GSM_RST Pin=P?-3
+Added Net: Name=GSM_RST
+Added Pin To Net: NetName=GSM_RXD Pin=P?-5
+Added Net: Name=GSM_RXD
+Added Pin To Net: NetName=GSM_SLEEP Pin=P?-6
+Added Net: Name=GSM_SLEEP
+Added Pin To Net: NetName=GSM_TXD Pin=P?-7
+Added Net: Name=GSM_TXD
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=SP_LR Pin=P?-2
+Added Net: Name=SP_LR
+Added Pin To Net: NetName=SP_SCK Pin=P?-3
+Added Net: Name=SP_SCK
+Added Pin To Net: NetName=SP_SD Pin=P?-4
+Added Net: Name=SP_SD
+Added Pin To Net: NetName=SP_WS Pin=P?-1
+Added Net: Name=SP_WS
+Added Class: Name=Barometer
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CC0402JRNPO9BN100
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=PowerSupply Member=Component IC? TPS63060DSCR
+Added Member To Class: ClassName=PowerSupply Member=Component LED? NCD0402R1
+Added Member To Class: ClassName=Microcontroller Member=Component P? Header 3X2
+Added Member To Class: ClassName=Microcontroller Member=Component P? SIM800L
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-0710KL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=PowerSupply Member=Component R? AC0402FR-07549RL
+Added Member To Class: ClassName=PowerSupply Member=Component R? RT0805BRD07111KL
+Added Member To Class: ClassName=PowerSupply Member=Component U? BQ24040DSQR
+Added Room: Name=Barometer
+Added Room: Name=Gyro
+Added Room: Name=Microcontroller
+Added Room: Name=PowerSupply

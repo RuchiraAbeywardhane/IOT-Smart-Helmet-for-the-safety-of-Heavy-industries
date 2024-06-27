@@ -1,0 +1,10 @@
+Change Footprint: Footprint Not Found CR01005FW1001GLF
+Change Component Designator: OldDesignator=R4 NewDesignator=R17
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR17_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-4
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=SmartHelmet Member=Component C4 CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component P3 Header 2
+Added Member To Class: ClassName=SmartHelmet Member=Component R17 RC0402FR-0710KL
+Added Member To Class: ClassName=SmartHelmet Member=Component U3 BQ24040DSQR

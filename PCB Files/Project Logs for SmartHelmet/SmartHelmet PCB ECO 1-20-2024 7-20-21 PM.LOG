@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GSM_RXD Pin=P?-5
+Removed Pin From Net: NetName=GSM_TXD Pin=P?-7
+Change Component Footprint: Designator=P? Old Footprint=HDR2X4 New Footprint=HDR2X3
+Change Component Comment : Designator=P? Old Comment=SIM800L New Comment=Header 3X2
+Add Component: Footprint Not Found CR01005FW1001GLF
+Added Component: Designator=S?(PTS526SK15SMTR2LFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTS526 SK15 SMTR2 LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pts526-sk15-smtr2-lfs/ck?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/2780/pts526.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS526 SK15 SMTR2 LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS526SK15SMR2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PTS526-SK15-SMTR2-LFS?qs=UXgszm6BlbF5Ezp94JAQtw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GSM_RXD Pin=P?-3
+Added Pin To Net: NetName=GSM_TXD Pin=P?-5
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Added Pin To Net: NetName=ENABLE Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-3
+Added Pin To Net: NetName=GSM_RXD Pin=U?-32
+Added Pin To Net: NetName=GSM_TXD Pin=U?-33
+Added Pin To Net: NetName=GSM_SLEEP Pin=U?-34
+Added Pin To Net: NetName=GSM_RING Pin=U?-35
+Added Member To Class: ClassName=Microcontroller Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=Microcontroller Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=Microcontroller Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=Microcontroller Member=Component C? GRM155C71C105KE11J
+Added Member To Class: ClassName=Microcontroller Member=Component P? Header 3X2
+Added Member To Class: ClassName=Microcontroller Member=Component P? Header 3X2
+Add Class Member: Failed to add class member : Component R5 CR01005-FW-1001GLF
+Added Member To Class: ClassName=Microcontroller Member=Component S? PTS526_SK15_SMTR2_LFS
+Added Room: Name=Barometer
+Added Room: Name=Gyro
+Added Room: Name=Microcontroller
+Added Room: Name=PowerSupply
+Added Room: Name=speaker

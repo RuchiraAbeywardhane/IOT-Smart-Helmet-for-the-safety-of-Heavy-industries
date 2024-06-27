@@ -1,0 +1,60 @@
+Change Footprint: Footprint Not Found CR01005FW1001GLF
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=SmartHelmet Member=Component C? GRM155C71C105KE11J
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CC0402KRX7R9BB103
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CC0402JRNPO9BN100
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CC0402KRX7R7BB104
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CC0402KRX7R9BB222
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL10A226MP8NUNE
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CL05A106MP5NUNC
+Added Member To Class: ClassName=SmartHelmet Member=Component C? CC0402KRX7R7BB104
+Added Member To Class: ClassName=SmartHelmet Member=Component IC? TPS63060DSCR
+Added Member To Class: ClassName=SmartHelmet Member=Component LED? NCD0402R1
+Added Member To Class: ClassName=SmartHelmet Member=Component P? Header 3X2
+Added Member To Class: ClassName=SmartHelmet Member=Component P? Header 2
+Added Member To Class: ClassName=SmartHelmet Member=Component P? Header 3X2
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RT0805BRD07111KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=SmartHelmet Member=Component R? CRCW040210K0FKEE
+Added Member To Class: ClassName=SmartHelmet Member=Component R? AC1206JR-074K7L
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RC0402FR-071K5L
+Added Member To Class: ClassName=SmartHelmet Member=Component R? AC0402FR-07549RL
+Added Member To Class: ClassName=SmartHelmet Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RK73H1ETTP5101F
+Added Member To Class: ClassName=SmartHelmet Member=Component R? CR01005-FW-1001GLF
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RC0402FR-0710KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R? AC0402DR-071ML
+Added Member To Class: ClassName=SmartHelmet Member=Component R? AC1206JR-074K7L
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RC0402FR-071KL
+Added Member To Class: ClassName=SmartHelmet Member=Component R? RC0402FR-07100KL
+Added Member To Class: ClassName=SmartHelmet Member=Component U1 MAX98357AETE+T
+Added Member To Class: ClassName=SmartHelmet Member=Component U? AP2204K-3.3TRG1
+Added Member To Class: ClassName=SmartHelmet Member=Component U? ESP32-S3-MINI-1U-N8
+Added Member To Class: ClassName=SmartHelmet Member=Component U? BQ24040DSQR

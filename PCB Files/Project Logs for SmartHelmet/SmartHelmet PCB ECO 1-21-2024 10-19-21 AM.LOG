@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=NCD0402R1
+Change Component DesignItemId : Designator=LED2 Old DesignItemId= New DesignItemId=NCD0402R1
+Change Component DesignItemId : Designator=IC2 Old DesignItemId= New DesignItemId=TPS63060DSCR
+Change Component Designator: OldDesignator=P2 NewDesignator=GSM
+Added Room: Name=SmartHelmet
