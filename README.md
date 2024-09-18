@@ -70,9 +70,9 @@
 ## Team Members
 
 * Ruchira Abeywardhane
-* Dinujaya Wijewickrama
-* Lasitha Amarasinghe
-* Sahan Abeyrathna
+* Nirosh Jayathilaka
+* Tharushi Karavita
+* Thakshaka Rathnayake
 
 
 ## License
