@@ -2,49 +2,21 @@
 An IoT Smart Helmet for heavy industries enhances worker safety by integrating sensors and communication systems to monitor environmental conditions and health metrics in real-time. It detects hazards like toxic gases, high temperatures, and worker fatigue, sending alerts to prevent accidents. Equipped with GPS and accelerometers, it also tracks worker location and detects falls, ensuring a proactive, data-driven approach to industrial safety.
 
 ## Introduction
+![final1 (1)](https://github.com/user-attachments/assets/3e314524-a706-445b-b3f5-491b08fec4e4)
 
-*  
-
-![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
 ## Working Concept
 
-*  Two sharp IR sensors measure the distance from the robot to the side walls.
-*  The difference between the sharp IR sensor values is taken as the error signal and fed into a PID control circuit.
-*  The PID output signal is fed to the adder and subtractor circuits.
-*  The PID output and a comparator circuit generate two PWM signals with varying duty cycles.
-*  Then using the motor driver, PWM signals are fed to the left and right wheels.
-*  The robot tracks the walls and travels on the centerline between walls.
-*  Additionally we added another sharp IR sensor to the front of the robot to control the speed of the robot.
-*  The measured distance is compared with a predefined distance and the difference is taken as the error signal.
-*  The error signal is fed to a PID control circuit.
-*  A PWM signal is generated using the PID output and a comparator circuit.
-*  This PWM signal acts as the Base speed of the robot.
-*  Consequently the additional sharp IR sensor will vary the car's speed accordingly.
-*  Therefore the car will accelerate and deaccelerate according to the distance of the wall infront it.
+*  
 
-![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
 ## Hardware Specifications
 
-* [TL084CN ICs](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/TL084CN_GeneralPurposeAmplifier.pdf)
-* Two [Sharp IR Sensors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/Sharp%20IR%20Sensor.pdf) 
-* Two [N20 Motors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/GA12-N20%20Motor.pdf)
-* [L298N Motor Driver](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/L298%20Motor%20Driver.PDF)
-* Wheels
-* [Surface Mount Resistors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/resistors.png)
-* [Surface Mount Capacitors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/capacitors.png)
-* [Other Components](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/other%20components.png)
+* 
 
 ## Software Specifications
 
-* Solid Works
-* Altium Designer
-* Multisim
-
-![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
-![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
-![Multisim](https://img.shields.io/badge/Multisim_-%2357B685?logo=multisim&logoColor=white)
+* 
 
 
 ## Enclosure Design
@@ -77,4 +49,3 @@ An IoT Smart Helmet for heavy industries enhances worker safety by integrating s
  
  * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
    
-## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Report.pdf)
