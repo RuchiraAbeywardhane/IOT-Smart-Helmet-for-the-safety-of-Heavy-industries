@@ -19,7 +19,6 @@ An IoT Smart Helmet for heavy industries enhances worker safety by integrating s
 
 * Altium
 * Solidwork
-* Arduino
 
 
 ## Enclosure Design
