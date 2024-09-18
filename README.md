@@ -27,18 +27,9 @@
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
-## Sub Circuits and Tasks
+## Demo
 
-* [Instrumentation Amplifier](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Instrumentation%20Amplifier.jpg)- Reduce noise in Sharp IR sensor outputs and amplify signals
-* [PID circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PID.jpg)- Control the error signal smoothly using feedback
-* [Adder & Subtractor](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Adder%20%26%20Substractor.jpg)- Generate two PWM signals with varying duty cycles according to PID output
-	* Motor 1= base speed + PID output
-	* Motor 2= base speed - PID output
-* [PWM circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PWM.jpg)- Generate two different comparator voltages for the two motors
-	* Motor 1 duty cycle ∝ base speed + PID output
-	* Motor 2 duty cycle ∝ base speed - PID output
-* [Voltage Regulator](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Voltage%20Regulator.png)- To get 3.3V and 5V for required parts accordingly
-* [Speed Selector](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Speed%20Selector.png)- Manually control the base speed
+* https://www.youtube.com/watch?v=-MhT2f1Lp4g
 
 ## Hardware Specifications
 
