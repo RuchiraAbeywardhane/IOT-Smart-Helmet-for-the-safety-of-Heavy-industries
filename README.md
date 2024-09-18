@@ -1,11 +1,9 @@
 # IOT Smart Helmet for the safety of Heavy industries
+An IoT Smart Helmet for heavy industries enhances worker safety by integrating sensors and communication systems to monitor environmental conditions and health metrics in real-time. It detects hazards like toxic gases, high temperatures, and worker fatigue, sending alerts to prevent accidents. Equipped with GPS and accelerometers, it also tracks worker location and detects falls, ensuring a proactive, data-driven approach to industrial safety.
 
 ## Introduction
 
-*  Wall following robot is a robot that follows a wall and travels keeping a constant distance from the wall. 
-*  Wall following is a common task in many robotics competitions.
-*  But the interesting point is our project was to build a robot that travels on the centerline between two walls using only analog electronics.
-*  That means we couldn’t use microcontrollers according to the [guidelines](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Guidelines.pdf).
+*  
 
 ![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
