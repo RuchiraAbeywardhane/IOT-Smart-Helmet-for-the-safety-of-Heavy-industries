@@ -7,13 +7,8 @@ An IoT Smart Helmet for heavy industries enhances worker safety by integrating s
 
 ## Working Concept
 
-*  ![WhatsApp Image 2023-12-24 at 17 43 26 (1)](https://github.com/user-attachments/assets/61ab1171-49d1-4233-909e-6325894dacae)
+![WhatsApp Image 2023-12-24 at 17 43 26 (1)](https://github.com/user-attachments/assets/61ab1171-49d1-4233-909e-6325894dacae)
 
-
-
-## Hardware Specifications
-
-* 
 
 ## Software Specifications
 
