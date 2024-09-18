@@ -1,5 +1,5 @@
 # IOT Smart Helmet for the safety of Heavy industries
-An IoT Smart Helmet for heavy industries enhances worker safety by integrating sensors and communication systems to monitor environmental conditions and health metrics in real-time. It detects hazards like toxic gases, high temperatures, and worker fatigue, sending alerts to prevent accidents. Equipped with GPS and accelerometers, it also tracks worker location and detects falls, ensuring a proactive, data-driven approach to industrial safety.
+An IoT Smart Helmet for heavy industries enhances worker safety by integrating sensors and communication systems to monitor environmental conditions and health metrics in real-time. It detects hazards like toxic gases, high temperatures, and worker fatigue, sending alerts to prevent accidents. Equipped accelerometers, it also detects falls, ensuring a proactive, data-driven approach to industrial safety.
 
 ## Introduction
 ![final1 (1)](https://github.com/user-attachments/assets/3e314524-a706-445b-b3f5-491b08fec4e4)
