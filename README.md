@@ -1,45 +1,95 @@
-<h1 align="center" id="title">IOT Smart Helmet for the safety of Heavy industriesg</h1>
+# IOT Smart Helmet for the safety of Heavy industries
+
+## Introduction
+
+*  Wall following robot is a robot that follows a wall and travels keeping a constant distance from the wall. 
+*  Wall following is a common task in many robotics competitions.
+*  But the interesting point is our project was to build a robot that travels on the centerline between two walls using only analog electronics.
+*  That means we couldn’t use microcontrollers according to the [guidelines](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Guidelines.pdf).
+
+![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
+
+## Working Concept
+
+*  Two sharp IR sensors measure the distance from the robot to the side walls.
+*  The difference between the sharp IR sensor values is taken as the error signal and fed into a PID control circuit.
+*  The PID output signal is fed to the adder and subtractor circuits.
+*  The PID output and a comparator circuit generate two PWM signals with varying duty cycles.
+*  Then using the motor driver, PWM signals are fed to the left and right wheels.
+*  The robot tracks the walls and travels on the centerline between walls.
+*  Additionally we added another sharp IR sensor to the front of the robot to control the speed of the robot.
+*  The measured distance is compared with a predefined distance and the difference is taken as the error signal.
+*  The error signal is fed to a PID control circuit.
+*  A PWM signal is generated using the PID output and a comparator circuit.
+*  This PWM signal acts as the Base speed of the robot.
+*  Consequently the additional sharp IR sensor will vary the car's speed accordingly.
+*  Therefore the car will accelerate and deaccelerate according to the distance of the wall infront it.
+
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
+
+## Sub Circuits and Tasks
+
+* [Instrumentation Amplifier](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Instrumentation%20Amplifier.jpg)- Reduce noise in Sharp IR sensor outputs and amplify signals
+* [PID circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PID.jpg)- Control the error signal smoothly using feedback
+* [Adder & Subtractor](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Adder%20%26%20Substractor.jpg)- Generate two PWM signals with varying duty cycles according to PID output
+	* Motor 1= base speed + PID output
+	* Motor 2= base speed - PID output
+* [PWM circuit](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/PWM.jpg)- Generate two different comparator voltages for the two motors
+	* Motor 1 duty cycle ∝ base speed + PID output
+	* Motor 2 duty cycle ∝ base speed - PID output
+* [Voltage Regulator](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Voltage%20Regulator.png)- To get 3.3V and 5V for required parts accordingly
+* [Speed Selector](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Circuits/Speed%20Selector.png)- Manually control the base speed
+
+## Hardware Specifications
+
+* [TL084CN ICs](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/TL084CN_GeneralPurposeAmplifier.pdf)
+* Two [Sharp IR Sensors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/Sharp%20IR%20Sensor.pdf) 
+* Two [N20 Motors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/GA12-N20%20Motor.pdf)
+* [L298N Motor Driver](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/data%20sheets/L298%20Motor%20Driver.PDF)
+* Wheels
+* [Surface Mount Resistors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/resistors.png)
+* [Surface Mount Capacitors](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/capacitors.png)
+* [Other Components](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Components/other%20components.png)
+
+## Software Specifications
+
+* Solid Works
+* Altium Designer
+* Multisim
+
+![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
+![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim_-%2357B685?logo=multisim&logoColor=white)
 
 
-<p id="description">.</p>
+## Enclosure Design
+
+![image](https://github.com/user-attachments/assets/859e3e3a-c81e-4d4e-bf23-b281d6f836fb)
+![image](https://github.com/user-attachments/assets/9e67753b-6cdb-4d69-95b7-6aa5378a7395)
 
 
 
-  
-<h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
-*   Manual Transmission
-*   Clutch Control Compatibility
-*   Analog controlled Steering Wheel
-*   Analog Controlled Acceleration
-*   Analog Controlled Acceleration
-*   Analog Controlled Brakes and Clutch
-*   PS3-compatible USB Connection  
-<br>
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   Arduino
-*   Analog Electronics
-*   Unojoy Arduino Library
+## PCB Design
+![image](https://github.com/user-attachments/assets/1022c5a3-2b48-423b-8139-74494e7ad5d8)
+![image](https://github.com/user-attachments/assets/e3b09cb9-d402-47a3-ae37-9054a9bc7e0b)
 
 
-<br>
-<h2 align="left" id="title">Working Concept</h2>
-<br>
-<p align="center"><img src="https://github.com/RuchiraAbeywardhane/Manual-transmission-Vehicle-Simulator/blob/f9349dea7dd1fa0874288fdfa47b9133517e2884/Images/WorkingConcept.png" alt="concept-image"></p>
+## PCB
 
-*  <h3> Analog Reading from Steering Wheel </h3> Variable Resistor is mapped to the physical motion of the steering wheel. In order to have realistic motion for the wheel 1:3 ratio of gear wheels are used in between the Steering Wheel and the variable resistor allowing the user to turn the steering wheel full circle for one direction
+![image](https://github.com/user-attachments/assets/d3f6123d-e865-4687-8ea2-3b273e6baa3c)
+![image](https://github.com/user-attachments/assets/6380bb89-f305-4a0e-b524-c0cadfde9ed6)
 
-*  <h3> Analog Reading from Pedals</h3> Variable Resistor is mapped to the physical motion of three pedals.  In order to have realistic motion springs are used with different spring constants according to the pedal. 
 
-*  <h3> Gear Box</h3> Sensitive push buttons are used to detect the current gear in the gearbox. Clutch control necessary for Gear shifting is handled through the simulation software installed in the computer.
+## Team Members
 
-*  <h3> Arduino</h3> Arduino Uno board is used as the connection between the computer and simulating hardware. Here Arduino board does not get recognized as a uno board by the computer but as a PS3-compatible USB game controller. In order to do this firmware in the Arduino board is updated using Arduino Unojoy library.
+* Ruchira Abeywardhane
+* Dinujaya Wijewickrama
+* Lasitha Amarasinghe
+* Sahan Abeyrathna
 
-<br>
-<h2>Exhibited at EXMO 2023 at University of Moratuwa</h2>
-<p align="center"><img src="https://github.com/RuchiraAbeywardhane/Manual-transmission-Vehicle-Simulator/blob/0cebf42378af27886ae8a9f8b109426e76593bc1/Images/EXMO.png" alt="EXMO-image"></p>
+
+## License
+ 
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
+   
+## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/blob/main/Project_Report.pdf)
